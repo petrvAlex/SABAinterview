@@ -1070,6 +1070,17 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Полезные ресурсы:
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1982,6 +1993,17 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Полезные ресурсы:
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -2116,38 +2138,25 @@
 </li>
 <li>
 <p>Операции выполняются с помощью стандартных <strong>HTTP-методов</strong>:</p>
+<ul>
+<li>
+<p>GET – получить ресурс (чтение данных). Является безопасным и идемпотентным (выполнение запроса не изменяет состояние сервера и при повторении дает тот же результат).</p>
+</li>
+<li>
+<p>POST – создать новый ресурс. Не является ни безопасным, ни идемпотентным: повторный POST может создавать дубли (например, два одинаковых заказа).</p>
+</li>
+<li>
+<p>PUT – полное обновление ресурса (замена). Не безопасен, но идемпотентен: несколько одинаковых PUT приведут к одному и тому же итоговому состоянию ресурса.</p>
+</li>
+<li>
+<p>PATCH – частичное обновление ресурса. Не идемпотентен (если не спроектирован специально), так как повторный PATCH может применить изменения повторно.</p>
+</li>
+<li>
+<p>DELETE – удаление ресурса. Тоже не безопасен, но практически идемпотентен (удаление уже удаленного ресурса обычно возвращает код 404 без дополнительных эффектов)</p>
 </li>
 </ul>
-<table>
-<thead>
-<tr>
-<th><strong>Метод</strong></th>
-<th><strong>Назначение</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>GET</td>
-<td>Получение ресурса</td>
-</tr>
-<tr>
-<td>POST</td>
-<td>Создание ресурса</td>
-</tr>
-<tr>
-<td>PUT</td>
-<td>Полное обновление ресурса</td>
-</tr>
-<tr>
-<td>PATCH</td>
-<td>Частичное обновление</td>
-</tr>
-<tr>
-<td>DELETE</td>
-<td>Удаление ресурса</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 <h3 id="5-uri">5.Идентификация ресурсов через URI<a class="headerlink" href="#5-uri" title="Permanent link">&para;</a></h3>
 <ul>
 <li>Ресурсы (например, пользователи, заказы) представлены <strong>уникальными адресами</strong>:</li>
@@ -2202,6 +2211,17 @@ Authorization: Bearer abc123
 <li>
 <p>Поддержка кэширования и разграничения клиент-серверной логики.</p>
 </li>
+</ul>
+<h2 id="_1">Полезные ресурсы:<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
+<p>Источники:</p>
+<ul>
+<li><a href="https://babok-school.ru/blog/integration-api-overview-rest-soap-grpc-graphql/">API межсистемной интеграции: REST, SOAP, gRPC и GraphQL</a></li>
+</ul>
+<p>Дополнительные материалы:</p>
+<ul>
+<li><a href="https://habr.com/ru/articles/351890/">REST API Best Practices / Хабр</a></li>
+<li><a href="https://learn.microsoft.com/ru-ru/azure/architecture/best-practices/api-design">Рекомендации по проектированию веб-API - Azure Architecture Center | Microsoft Learn</a></li>
+<li><a href="https://bestwebber.ru/api-dizajn-luchshie-praktiki-i-tendenczii/">API-дизайн: лучшие практики и тенденции - BestWebber: новости программирования, seo и продвижения в сети интернет</a></li>
 </ul>
 
 
