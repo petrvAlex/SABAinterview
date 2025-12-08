@@ -2,130 +2,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://saba-interview.ru/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/ba/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/ba/bpmn/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/ba/methodologies/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/ba/requirement-types/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/ba/team/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/ba/uml/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/ba/use-case-and-user-story/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/architecture-types/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/authentication-and-authorization/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/http/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/idempotence/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/identification/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/monolith-vs-microservices/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/data-formats/json-schema/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/data-formats/json-vs-xml/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/data-formats/xsd/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/db/indexes/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/db/keys/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/db/normalization/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/db/sql/aggregations/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/db/sql/basics/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/db/sql/interview-questions/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/db/sql/joins/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/integrations/integration-methods/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/integrations/rabbitmq-vs-kafka/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/integrations/rest-vs-soap/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/integrations/rest/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/integrations/soap/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/interaction/orchestration-vs-choreography/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
     <url>
          <loc>https://saba-interview.ru/sa/interaction/sync-vs-async/</loc>
-         <lastmod>2025-11-16</lastmod>
+         <lastmod>2025-11-19</lastmod>
     </url>
 </urlset>
