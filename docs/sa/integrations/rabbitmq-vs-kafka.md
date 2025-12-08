@@ -45,6 +45,8 @@
     
 - RPC-запросы между сервисами.
 
+![rabbitMq](../../assets/images/saImages/rabbitMq.png)
+
 ### Kafka
 
 - Потоковая обработка данных (stream processing).
@@ -54,6 +56,8 @@
 - Реализация event sourcing.
     
 - Интеграция с Big Data и аналитикой (например, Apache Spark, Flink).
+
+![kafka](../../assets/images/saImages/kafka.png)
 
 ---
 
