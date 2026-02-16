@@ -1022,10 +1022,10 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#6-representation" class="md-nav__link">
+  <a href="#6-layered-system" class="md-nav__link">
     <span class="md-ellipsis">
       
-        6.Представление ресурса (Representation)
+        6.Система уровней (Layered System)
       
     </span>
   </a>
@@ -1945,10 +1945,10 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#6-representation" class="md-nav__link">
+  <a href="#6-layered-system" class="md-nav__link">
     <span class="md-ellipsis">
       
-        6.Представление ресурса (Representation)
+        6.Система уровней (Layered System)
       
     </span>
   </a>
@@ -2164,15 +2164,9 @@
 <div class="highlight"><pre><span></span><code>GET /users/42
 DELETE /orders/1001
 </code></pre></div>
-<h3 id="6-representation">6.Представление ресурса (Representation)<a class="headerlink" href="#6-representation" title="Permanent link">&para;</a></h3>
-<ul>
-<li>
-<p>Ресурс может передаваться в разных форматах: <strong>JSON</strong> (чаще всего), XML и др.</p>
-</li>
-<li>
-<p>Клиент может запрашивать нужный формат через заголовок Accept.</p>
-</li>
-</ul>
+<h3 id="6-layered-system">6.Система уровней (Layered System)<a class="headerlink" href="#6-layered-system" title="Permanent link">&para;</a></h3>
+<p>REST API может включать несколько уровней, таких как балансировщики нагрузки, прокси-серверы и системы аутентификации. <br />
+Каждый уровень выполняет свою функцию и не зависит от других, что повышает надёжность и гибкость системы.</p>
 <h3 id="7">7.Код по требованию (необязательный принцип)<a class="headerlink" href="#7" title="Permanent link">&para;</a></h3>
 <ul>
 <li>
