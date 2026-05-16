@@ -1159,7 +1159,7 @@
   <a href="#json_1" class="md-nav__link">
     <span class="md-ellipsis">
       
-        JSON:
+        JSON
       
     </span>
   </a>
@@ -1170,7 +1170,7 @@
   <a href="#json-schema_2" class="md-nav__link">
     <span class="md-ellipsis">
       
-        JSON Schema:
+        JSON Schema
       
     </span>
   </a>
@@ -1224,9 +1224,10 @@
     </span>
   </a>
   
-</li>
-      
-        <li class="md-nav__item">
+    <nav class="md-nav" aria-label="Полезные ресурсы">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
   <a href="#additional-materials" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1234,6 +1235,11 @@
       
     </span>
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -1912,7 +1918,7 @@
   <a href="#json_1" class="md-nav__link">
     <span class="md-ellipsis">
       
-        JSON:
+        JSON
       
     </span>
   </a>
@@ -1923,7 +1929,7 @@
   <a href="#json-schema_2" class="md-nav__link">
     <span class="md-ellipsis">
       
-        JSON Schema:
+        JSON Schema
       
     </span>
   </a>
@@ -1977,9 +1983,10 @@
     </span>
   </a>
   
-</li>
-      
-        <li class="md-nav__item">
+    <nav class="md-nav" aria-label="Полезные ресурсы">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
   <a href="#additional-materials" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1987,6 +1994,11 @@
       
     </span>
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -2079,8 +2091,7 @@
 <h1 id="json-schema">JSON Schema<a class="headerlink" href="#json-schema" title="Permanent link">&para;</a></h1>
 <p><strong>JSON Schema</strong> — это формат для <strong>описания структуры, содержимого и ограничений JSON-документов</strong>.</p>
 <p>Служит для <strong>валидации данных</strong>, автогенерации форм, документации API и повышения надёжности обмена данными.</p>
-<hr />
-<h3 id="json-schema_1">Зачем нужен JSON Schema?<a class="headerlink" href="#json-schema_1" title="Permanent link">&para;</a></h3>
+<h2 id="json-schema_1">Зачем нужен JSON Schema?<a class="headerlink" href="#json-schema_1" title="Permanent link">&para;</a></h2>
 <ul>
 <li>
 <p>Проверка, что JSON соответствует ожидаемой структуре.</p>
@@ -2098,9 +2109,8 @@
 <p>Улучшение взаимодействия между системами и API.</p>
 </li>
 </ul>
-<hr />
-<h3 id="json">Пример JSON и соответствующей схемы<a class="headerlink" href="#json" title="Permanent link">&para;</a></h3>
-<h4 id="json_1">JSON:<a class="headerlink" href="#json_1" title="Permanent link">&para;</a></h4>
+<h2 id="json">Пример JSON и соответствующей схемы<a class="headerlink" href="#json" title="Permanent link">&para;</a></h2>
+<h3 id="json_1">JSON<a class="headerlink" href="#json_1" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>{
   &quot;id&quot;: 1,
   &quot;name&quot;: &quot;Alice&quot;,
@@ -2108,7 +2118,7 @@
   &quot;age&quot;: 30
 }
 </code></pre></div>
-<h4 id="json-schema_2">JSON Schema:<a class="headerlink" href="#json-schema_2" title="Permanent link">&para;</a></h4>
+<h3 id="json-schema_2">JSON Schema<a class="headerlink" href="#json-schema_2" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>{
   &quot;$schema&quot;: &quot;https://json-schema.org/draft/2020-12/schema&quot;,
   &quot;type&quot;: &quot;object&quot;,
@@ -2121,8 +2131,7 @@
   &quot;required&quot;: [&quot;id&quot;, &quot;name&quot;, &quot;email&quot;]
 }
 </code></pre></div>
-<hr />
-<h3 id="json-schema_3">Основные ключи в JSON Schema<a class="headerlink" href="#json-schema_3" title="Permanent link">&para;</a></h3>
+<h2 id="json-schema_3">Основные ключи в JSON Schema<a class="headerlink" href="#json-schema_3" title="Permanent link">&para;</a></h2>
 <table>
 <thead>
 <tr>
@@ -2169,24 +2178,14 @@
 </tr>
 </tbody>
 </table>
-<hr />
-<h3 id="_1">Варианты использования<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h3>
+<h2 id="_1">Варианты использования<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
 <ul>
-<li>
-<p><strong>API-документация</strong> (например, OpenAPI/Swagger использует JSON Schema).</p>
-</li>
-<li>
-<p><strong>Валидация входных данных</strong> на сервере или клиенте.</p>
-</li>
-<li>
-<p><strong>Генерация UI-форм</strong> (например, React JSON Schema Form).</p>
-</li>
-<li>
-<p><strong>Тестирование</strong> — проверка, что JSON-ответы соответствуют ожидаемой структуре.</p>
-</li>
+<li><strong>API-документация</strong> (например, OpenAPI/Swagger использует JSON Schema).</li>
+<li><strong>Валидация входных данных</strong> на сервере или клиенте.</li>
+<li><strong>Генерация UI-форм</strong> (например, React JSON Schema Form).</li>
+<li><strong>Тестирование</strong> — проверка, что JSON-ответы соответствуют ожидаемой структуре.</li>
 </ul>
-<hr />
-<h3 id="_2">Примеры ограничений<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h3>
+<h2 id="_2">Примеры ограничений<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
 <div class="highlight"><pre><span></span><code>{
   &quot;type&quot;: &quot;string&quot;,
   &quot;minLength&quot;: 3,
@@ -2195,8 +2194,7 @@
 }
 </code></pre></div>
 <p>Строка от 3 до 10 символов, начинается с заглавной буквы, затем строчные.</p>
-<hr />
-<h3 id="resources">Полезные ресурсы<a class="headerlink" href="#resources" title="Permanent link">&para;</a></h3>
+<h2 id="resources">Полезные ресурсы<a class="headerlink" href="#resources" title="Permanent link">&para;</a></h2>
 <h3 id="additional-materials">Дополнительные материалы<a class="headerlink" href="#additional-materials" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="https://json-schema.org">https://json-schema.org</a></li>
