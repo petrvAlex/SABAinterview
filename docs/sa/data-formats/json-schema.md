@@ -96,9 +96,9 @@
 
 ---
 
-### Полезные ресурсы
+### Полезные ресурсы {#resources}
 
-Дополнительные материалы:
+### Дополнительные материалы {#additional-materials}
 
 - [https://json-schema.org](https://json-schema.org)
 - Валидация: [https://www.jsonschemavalidator.net](https://www.jsonschemavalidator.net)

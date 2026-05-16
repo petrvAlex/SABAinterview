@@ -180,14 +180,14 @@ BPMN предполагает следующие графические отоб
 
 ---
 
-## Полезные ресурсы
+## Полезные ресурсы {#resources}
 
-Источники:
+### Источники {#sources}
 
 - [Все элементы BPMN с описанием](https://stormbpmn.com/bpmn/elements)
 - [Обзор всех видов диаграмм BPMN](https://bpmn20.ru/docs/docly-documentation/obzor-vseh-vidov-diagramm-bpmn/)
 
-Дополнительные материалы:
+### Дополнительные материалы {#additional-materials}
 
 - [BPMN 2.0 Specification (OMG)](https://www.omg.org/spec/BPMN/)
 - [Camunda BPMN cheatsheet](https://camunda.com/bpmn/cheat-sheet/)

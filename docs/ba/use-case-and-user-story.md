@@ -104,9 +104,9 @@
 
 ---
 
-## Полезные ресурсы
+## Полезные ресурсы {#resources}
 
-Дополнительные материалы:
+### Дополнительные материалы {#additional-materials}
 
 - **Alistair Cockburn** — автор концепции Use Case  
 - **Mike Cohn** — книга *User Stories Applied*  

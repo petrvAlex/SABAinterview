@@ -76,9 +76,9 @@ Content-Length: 47
 }
 ```
 
-## Полезные ресурсы
+## Полезные ресурсы {#resources}
 
-Дополнительные материалы:
+### Дополнительные материалы {#additional-materials}
 
 - [MDN Web Docs — HTTP](https://developer.mozilla.org/ru/docs/Web/HTTP)
 - [RFC 9110 (HTTP/1.1)](https://httpwg.org/specs/rfc9110.html)

@@ -111,13 +111,13 @@ Authorization: Bearer abc123
     
 - Поддержка кэширования и разграничения клиент-серверной логики.
 
-## Полезные ресурсы:
+## Полезные ресурсы {#resources}:
 
-Источники:
+### Источники {#sources}
 
 - [API межсистемной интеграции: REST, SOAP, gRPC и GraphQL](https://babok-school.ru/blog/integration-api-overview-rest-soap-grpc-graphql/)
 
-Дополнительные материалы:
+### Дополнительные материалы {#additional-materials}
 
 - [REST API Best Practices / Хабр](https://habr.com/ru/articles/351890/)
 - [Рекомендации по проектированию веб-API - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/ru-ru/azure/architecture/best-practices/api-design)

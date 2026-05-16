@@ -117,16 +117,16 @@
 
 ---
 
-## Полезные ресурсы
+## Полезные ресурсы {#resources}
 
-Источники:
+### Источники {#sources}
 
 - [Ещё раз про семь основных методологий разработки](https://habr.com/ru/companies/edison/articles/269789/) 
      - [PDF-версия](../assets/pdfs/baPdfs/methodologies.pdf)
 - [Каскадная модель разработки ПО](https://simpleone.ru/glossary/cascade-model-of-software-development)
      - [PDF-версия](../assets/pdfs/baPdfs/cascadeMethodology.pdf)
 
-Дополнительные материалы:
+### Дополнительные материалы {#additional-materials}
 
 - [Agile Manifesto](https://agilemanifesto.org)  
 - [Scrum Guide](https://scrumguides.org)  

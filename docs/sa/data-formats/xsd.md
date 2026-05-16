@@ -117,9 +117,9 @@
 
 ---
 
-## Полезные ресурсы
+## Полезные ресурсы {#resources}
 
-Дополнительные материалы:
+### Дополнительные материалы {#additional-materials}
 
 - Валидация: [https://www.freeformatter.com/xml-validator-xsd.html](https://www.freeformatter.com/xml-validator-xsd.html)
 - Генерация схем: [https://www.liquid-technologies.com/xsd-schema-editor](https://www.liquid-technologies.com/xsd-schema-editor)

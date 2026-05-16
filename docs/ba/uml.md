@@ -154,9 +154,9 @@ UML делится на два основных типа диаграмм:
 
 ---
 
-## Полезные ресурсы
+## Полезные ресурсы {#resources}
 
-Дополнительные материалы:
+### Дополнительные материалы {#additional-materials}
 
 - [Официальный UML 2.5.1 Specification (OMG)](https://www.omg.org/spec/UML/)
 - [PlantUML](https://plantuml.com/)

@@ -37,6 +37,7 @@ nav:
   - "БА":
       - ba/index.md
       - "Виды требований": ba/requirement-types.md
+      - "Процесс разработки ПО": ba/process-development.md
       - "Use case и User story": ba/use-case-and-user-story.md
       - "Методологии": ba/methodologies.md
       - "UML": ba/uml.md
